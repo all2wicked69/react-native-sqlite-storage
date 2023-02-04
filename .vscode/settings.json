@@ -1,0 +1,112 @@
+            {
+                "launch": {
+                    "inputs": [
+                        [
+                            {
+                                "resource": "/andpor/react-native-sqlite-storage/.vscode/settings.json",
+                                "owner": "_generated_diagnostic_collection_name_#3",
+                                "code": "515",
+                                "severity": 8,
+                                "message": "Colon expected",
+                                "source": "jsonc",
+                                "startLineNumber": 2,
+                                "startColumn": 45,
+                                "endLineNumber": 2,
+                                "endColumn": 51
+                            },
+                            {
+                                "resource": "/andpor/react-native-sqlite-storage/.vscode/settings.json",
+                                "owner": "_generated_diagnostic_collection_name_#3",
+                                "code": "258",
+                                "severity": 8,
+                                "message": "Unexpected end of string.",
+                                "source": "jsonc",
+                                "startLineNumber": 2,
+                                "startColumn": 51,
+                                "endLineNumber": 2,
+                                "endColumn": 57
+                                [
+                                    {
+                                        "resource": "/andpor/react-native-sqlite-storage/.vscode/settings.json",
+                                        "owner": "_generated_diagnostic_collection_name_#3",
+                                        "code": "514",
+                                        "severity": 8,
+                                        "message": "Expected comma",
+                                        "source": "jsonc",
+                                        "startLineNumber": 28,
+                                        "startColumn": 33,
+                                        "endLineNumber": 28,
+                                        "endColumn": 59
+                                    }
+
+
+
+
+                                    "Incorrect type. Expected "object"."
+                                "Incorrect type, Expected "object","
+                                "jsonIncorrect type. Expected "object"."
+
+
+
+                                {
+                            "resource": "/andpor/react-native-sqlite-storage/.vscode/settings.json",
+                            "owner": "_generated_diagnostic_collection_name_#3",
+                            "code": "258",
+                            "severity": 8,
+                                    "message": "Unexpected end of string.",
+                                    "source": "jsonc",
+                            "startLineNumber": 2,
+                            "startColumn": 51,
+                            "endLineNumber": 2,
+                            "endColumn": 57
+                        }
+            ],
+            {
+                "resource": "/andpor/react-native-sqlite-storage/.vscode/settings.json",
+                "owner": "_generated_diagnostic_collection_name_#3",
+                "code": "515",
+                "severity": 8,
+                "message": "Colon expected",
+                "source": "jsonc",
+                "startLineNumber": 2,
+                "startColumn": 45,
+                "endLineNumber": 2,
+                "endColumn": 51
+            },
+            "[json]",
+            [
+                {
+                    "resource": "/andpor/react-native-sqlite-storage/.vscode/settings.json",
+                    "owner": "_generated_diagnostic_collection_name_#3",
+                    "code": "515",
+                    "severity": 8,
+                    "message": "Colon expected",
+                    "source": "jsonc",
+                    "startLineNumber": 2,
+                    "startColumn": 45,
+                    "endLineNumber": 2,
+                    "endColumn": 51
+                },
+                {
+                    "resource": "/andpor/react-native-sqlite-storage/.vscode/settings.json",
+                    "owner": "_generated_diagnostic_collection_name_#3",
+                    "code": "258",
+                    "severity": 8,
+                    "message": "Unexpected end of string.",
+                    "source": "jsonc",
+                    "startLineNumber": 2,
+                    "startColumn": 51,
+                    "endLineNumber": 2,
+                    "endColumn": 57
+                }
+            ]{
+                "resource": "/andpor/react-native-sqlite-storage/.vscode/settings.json",
+                "owner": "_generated_diagnostic_collection_name_#3",
+                "code": "258",
+                "severity": 8,
+                "message": "Unexpected end of string.",
+                "source": "jsonc",
+                "startLineNumber": 2,
+                "startColumn": 51,
+                "endLineNumber": 2,
+                "endColumn": 57
