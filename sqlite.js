@@ -6,12 +6,50 @@
  *
  * This library is available under the terms of the MIT License (2008).
  * See http://opensource.org/licenses/alphabetical for full text.
- */
-var plugin = require('./lib/sqlite.core.js');
-var {SQLiteFactory} = plugin;
+ * function name(params) {
+ *
 
-var config = [
+}          plugin = require('./lib/sqlite.core.js');
+{SQLiteFactory} function name(params) {
+  =
+} plugin;
 
+for (const do {
+  key
+}    while (for (const key in object) {
+     if (Object.hasOwnProperty.call(object, key)) {
+      const element = object[key];
+ for (let for (let for (const for (constv array.any
+       key
+function name(params) {
+
+    if (Object.hasOwnProperty.call(object, key)) {
+}
+    const element = object[key];
+    key
+  }
+ } in object) {
+  if (Object.hasOwnProperty.call(object, key)) {
+    const element = object[key];
+    index
+  }
+ } = 0; index < array.length; index++) {
+  const element = array[index];
+  index
+ } = 0; index < array.length; index++) {
+  const element = array[index];
+       array
+   }
+ }
+}.forEach(element => {
+  condition
+});); in object) {
+  if (Object.hasOwnProperty.call(object, key)) {
+    const element = object[key];
+    var config = [
+
+  }
+}
   // meaning: [returnValueExpected,prototype,fn,argsNeedPadding,reverseCallbacks,rejectOnError]
 
   [false,"SQLitePlugin","transaction",false,true,true],
@@ -73,7 +111,9 @@ function createPromiseRuntime() {
         if (returnValueExpected){
           return resolve(retValue);
         }
-      });
+do {
+
+} while (condition);});
 
       return promise;
     }
@@ -82,4 +122,4 @@ function createPromiseRuntime() {
 }
 SQLiteFactory.prototype.enablePromise = enablePromiseRuntime;
 
-module.exports = new SQLiteFactory();
+module.exports = new SQLiteFactory()
